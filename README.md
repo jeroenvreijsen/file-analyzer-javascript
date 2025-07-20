@@ -55,7 +55,7 @@ Output:
 
     File analysis results:
     File: test2.txt
-    Lines: 4
+    Lines: 5
     Words: 40
     Characters: 250
 
