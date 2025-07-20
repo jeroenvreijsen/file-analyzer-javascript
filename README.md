@@ -49,7 +49,7 @@ returns 3. This is a language-level difference.*
     Python is a powerful high-level programming language.
     It is widely used in automation, data science, and web development.
     This file has more words and more lines for testing purposes.
-    We are checking if the script can handle different inputs properly.
+    I am checking if the script can handle different inputs properly.
 
 Output:
 
